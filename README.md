@@ -39,9 +39,9 @@ The project follows these steps:
 
 <p align="center">
 Run Bot detection: <br/>
-<img src="https://imgur.com/a/PhEXgfo" height="80%" width="80%" alt="Data cleaning and features after standardization"/>
+<img src="https://i.imgur.com/wWv9yVw.png" height="80%" width="80%" alt="Data cleaning and features after standardization"/>
 <br />
 <br />
 Confusion Matrix and ROC Curve:  <br/>
-<img src="https://imgur.com/a/xu5P8kb" height="80%" width="80%" alt="Confusion Matrix and ROC Curve"/>
+<img src="https://i.imgur.com/Dbpu4ag.png" height="80%" width="80%" alt="Confusion Matrix and ROC Curve"/>
 <br />
